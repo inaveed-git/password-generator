@@ -12,7 +12,7 @@ This is a simple password generator web application that allows users to generat
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgments](#acknowledgments)
+
 
 ## Introduction
 
